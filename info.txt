@@ -1,0 +1,35 @@
+Q1
+(a)
+Read student details, calculates total marks, %, and then display results
+(b)
+Determine/calculate if senior
+
+Q2
+(a)
+Display Fibonacci sequence
+(b)
+Calculate N & R factorial and binomial coefficient series
+
+Q3
+Calculate Mean, Variance & Standard Deviation
+
+Q4
+Input multidigit number and display frequency of occurences of each number
+
+Q5
+Display 10 most frequently occuring words in a text file
+
+Q6
+Sort a given text file and write the sorted result in a separate text file
+
+Q7
+Creat ZIP backup folder
+
+Q8
+Use try-except command block to calculate division by zero
+
+Q9
+Use classes to compute the sum of 2 complex numbers
+
+Q10
+Use classes to determine the total marks, average marks, percentage, and grade of a given student
